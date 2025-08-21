@@ -62,7 +62,7 @@
 - 📊 Conocimientos en **Power BI** y **SQL Server**  
 - 🌱 Actualmente profundizando en **DevOps (CI/CD, Linux)**  
 - 📍 Resido en Pereira, Colombia  
--  📄 [Download my Resume]([https://drive.google.com/tu-enlace](https://drive.google.com/file/d/1n3HX856Iah8iLMMJKIaGdLXghIvhJcz7/view?usp=sharing)
+-  📄 [Download my Resume]([https://drive.google.com/tu-enlace](https://drive.google.com/file/d/1n3HX856Iah8iLMMJKIaGdLXghIvhJcz7/view?usp=sharing))
   
 
 ---
