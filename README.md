@@ -16,7 +16,7 @@
 - 📊 Knowledge of **Power BI** and **SQL Server**  
 - 🌱 Currently learning **DevOps (CI/CD, Linux)**  
 - 📍 Based in Pereira, Colombia  
-- 📄 [CV](#)  
+- 📄 [Download my Resume](#)  
 
 ---
 
